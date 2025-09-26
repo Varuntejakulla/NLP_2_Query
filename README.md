@@ -1,8 +1,19 @@
-# WELCOME TO OUR  PROJECT :
+# Welcome to Our Project
 
-FIRST  YOUR BRANCH AND  PUSH TO COMMON BRANCH DONT PUSH THE CODE TO DIRECTLY TO MAIN AND MASTER BRACH  
+## Branching Instructions
 
-AFTER  ASSIGN THE MERGE SO THAT YOU CAN LEARN THE HOW TO RISE THE MERGE REQUERSTS AS WEEL
+- **Do not push code directly** to the `main` or `master` branch.  
+- Always create a **separate branch** for your work.  
+- Once your work is complete, **push to the common branch** (not main/master).  
 
-INSTRUCTION TO CREATE NEW  BRANCH AND RISE MERGE TO REQUEST  TO PERSON .
+## Merge Requests
 
+- After pushing your branch, **create a Merge Request (MR)**.  
+- Assign the MR to the responsible person for review.  
+- This process will help you learn how to properly **raise merge requests** and collaborate.
+
+## Steps to Create a New Branch & Raise a Merge Request
+
+1. Create a new branch:
+   ```bash
+   git checkout -b feature/your-branch-name
